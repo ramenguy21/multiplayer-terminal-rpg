@@ -1,0 +1,91 @@
+# Build directories
+/build/
+/bin/
+/obj/
+/out/
+
+# Compiled object files
+*.o
+*.lo
+*.la
+*.al
+
+# Compiled Dynamic Libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static Libraries
+*.a
+*.lib
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.pdb
+*.ilk
+*.map
+*.lst
+
+# Temporary or swap files
+*.tmp
+*.swp
+*.swo
+*.bak
+*.old
+*.orig
+*.rej
+*.log
+*.stackdump
+
+# Editor and IDE specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# CTags and other tagging files
+tags
+TAGS
+
+# Autotools generated files
+/aclocal.m4
+/autom4te.cache/
+/compile
+/config.*
+/depcomp
+/install-sh
+/ltmain.sh
+/missing
+/mkinstalldirs
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Make and other build system artifacts
+*.d
+*.mk
+
+# Coverage and profiling files
+*.gcno
+*.gcda
+*.gcov
+
+# Miscellaneous system files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+*.d
+*.dep
+*.mod
+
+# Backup or temporary files
+*~
+
